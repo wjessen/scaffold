@@ -23,6 +23,9 @@ I want an idea for an application that can be written in many different programm
 * accept argument from stdin
 * make a web request
 * parse something from a file
+* connect to database
+* read from database
+* call an API
 
 
 ### Specific:
