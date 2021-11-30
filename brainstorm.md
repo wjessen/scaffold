@@ -3,35 +3,38 @@ I want an idea for an application that can be written in many different programm
 ### Basics
 * Assigning Variables
 * Creating Variables
-* * Different data types:
-* * * string
-* * * int
-* * * char
-* * * list (vector etc)
-* defining functions
-* * Function must take arguments
-* importing a function from another file
-* importing a function from another directory
-* importing a function from another library
-* importing a class from another file
-* importing a class from another dir
-* importing a class from another library
-* writing a for loop
-* writing a main loop
-* handle an error
-* print to stdout
-* accept argument from stdin
-* make a web request
-* parse something from a file
-* connect to database
-* read from database
-* call an API
+  * Different Data Types:
+    * String
+    * Int
+    * Char
+    * List (& Other collections)
+* Defining Functions
+  *  Function Must Take Arguments
+* Importing A Class/Function From Another File/Dir/Library
+* Importing A Class/Function From Another File/Dir/Library
+* Writing A For Loop
+* Writing a While Loop
+* Writing A Main Loop
+* Handle An Error
+* Print To Stdout
+* Accept Argument From Stdin
+* Make A Web Request
+* Parse Something From A File
+* Connect To Database
+* Read From Database
+* Call An Api
+* Running Test
 
+### Platform:
+* Creating Project Structure
+* Create a package/publish witht his code
+* Create Docker image
+* Create K8s Deployment
 
 ### Specific:
 * Figure out what a core competency of this language is and implement a simple version into the application
 
-# Language Ideas:
+## Language Ideas:
 * go
 * c++
 * c
